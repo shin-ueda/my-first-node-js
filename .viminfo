@@ -1,0 +1,183 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+:w
+:q!
+:q
+:!
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	。
+
+# ファイルマーク:
+'0  5  0  ~/workspace/git-study/wise.md
+'1  6  0  ~/workspace/git-study/wise.md
+'2  1  0  ~/workspace/git-study/wise.md
+'3  9  0  ~/workspace/git-study/wise.md
+'4  1  0  ~/workspace/git-sutdy/README.md
+'5  23  56  /tmp/crontab.L14noc/crontab
+'6  23  58  /tmp/crontab.Rnd5lQ/crontab
+'7  67  53  /tmp/tutoryVCcep
+'8  1  0  ~/workspace/vim-study/test.txt
+'9  21  0  ~/.profile
+
+# ジャンプリスト (新しいものが先):
+-'  5  0  ~/workspace/git-study/wise.md
+-'  1  0  ~/workspace/git-study/wise.md
+-'  6  0  ~/workspace/git-study/wise.md
+-'  9  0  ~/workspace/git-study/wise.md
+-'  1  0  ~/workspace/git-sutdy/README.md
+-'  23  56  /tmp/crontab.L14noc/crontab
+-'  1  0  /tmp/crontab.L14noc/crontab
+-'  23  58  /tmp/crontab.Rnd5lQ/crontab
+-'  1  0  /tmp/crontab.Rnd5lQ/crontab
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  58  /tmp/crontab.Rnd5lQ/crontab
+-'  1  0  /tmp/crontab.Rnd5lQ/crontab
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  56  /tmp/crontab.L14noc/crontab
+-'  1  0  /tmp/crontab.L14noc/crontab
+-'  23  58  /tmp/crontab.Rnd5lQ/crontab
+-'  1  0  /tmp/crontab.Rnd5lQ/crontab
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  58  /tmp/crontab.Rnd5lQ/crontab
+-'  1  0  /tmp/crontab.Rnd5lQ/crontab
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  56  /tmp/crontab.L14noc/crontab
+-'  1  0  /tmp/crontab.L14noc/crontab
+-'  23  58  /tmp/crontab.Rnd5lQ/crontab
+-'  1  0  /tmp/crontab.Rnd5lQ/crontab
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  21  0  ~/.profile
+-'  1  0  ~/.profile
+-'  23  58  /tmp/crontab.Rnd5lQ/crontab
+-'  1  0  /tmp/crontab.Rnd5lQ/crontab
+-'  67  53  /tmp/tutoryVCcep
+-'  1  0  /tmp/tutoryVCcep
+-'  1  0  ~/workspace/vim-study/test.txt
+-'  21  0  ~/.profile
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/wise.md
+	"	5	0
+	^	5	45
+	.	8	0
+	+	5	62
+	+	9	0
+	+	8	0
+	+	7	0
+	+	6	0
+	+	5	36
+	+	5	0
+	+	6	0
+	+	5	0
+	+	6	6
+	+	8	30
+	+	9	0
+	+	7	0
+	+	8	0
+
+> ~/workspace/git-sutdy/README.md
+	"	1	0
+
+> /tmp/crontab.L14noc/crontab
+	"	23	56
+	^	23	57
+	.	23	57
+	+	23	57
+
+> /tmp/crontab.Rnd5lQ/crontab
+	"	23	58
+	^	23	59
+	.	23	1
+	+	23	1
+
+> /tmp/tutoryVCcep
+	"	67	53
+
+> ~/workspace/vim-study/test.txt
+	"	1	0
+
+> ~/.profile
+	"	21	0

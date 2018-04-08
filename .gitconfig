@@ -1,0 +1,5 @@
+[user]
+	name = shingatalk
+	email = shingatalk@gmail.com
+[core]
+	editor = vim
